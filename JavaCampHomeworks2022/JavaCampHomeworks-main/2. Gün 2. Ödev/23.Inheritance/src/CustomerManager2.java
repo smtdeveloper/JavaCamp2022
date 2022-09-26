@@ -1,3 +1,3 @@
-public class CustomerManager extends PersonManager {
+public class CustomerManager2 extends PersonManager {
 
 }

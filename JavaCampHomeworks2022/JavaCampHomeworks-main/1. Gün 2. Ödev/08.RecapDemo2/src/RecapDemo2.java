@@ -1,4 +1,4 @@
-public class Main {
+public class RecapDemo2 {
 
     public static void main(String[] args) {
         double[] myList = {1.2, 2.3, 4.3, 5.6};

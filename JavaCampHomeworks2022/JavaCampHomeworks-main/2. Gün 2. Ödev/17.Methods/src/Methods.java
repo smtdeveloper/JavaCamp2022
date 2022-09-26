@@ -1,4 +1,4 @@
-public class Main {
+public class Methods {
 
     public static void main(String[] args) {
         SayiBulmaca();

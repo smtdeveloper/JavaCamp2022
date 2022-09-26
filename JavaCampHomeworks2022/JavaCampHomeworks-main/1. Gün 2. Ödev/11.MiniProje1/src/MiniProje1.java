@@ -1,4 +1,4 @@
-public class Main {
+public class MiniProje1 {
 
     public static void main(String[] args) {
         int number = 2;

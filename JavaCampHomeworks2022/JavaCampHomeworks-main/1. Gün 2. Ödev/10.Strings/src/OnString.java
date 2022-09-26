@@ -1,4 +1,4 @@
-public class Main {
+public class OnString {
 
     public static void main(String[] args) {
         String message = "Bugün hava çok güzel";

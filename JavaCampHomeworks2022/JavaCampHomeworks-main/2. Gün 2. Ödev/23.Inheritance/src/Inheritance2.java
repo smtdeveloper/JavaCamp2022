@@ -1,9 +1,9 @@
-public class Main {
+public class Inheritance2 {
 
     public static void main(String[] args) {
 	    Customer customer = new Customer();
         Employee employee = new Employee();
-        CustomerManager customerManager = new CustomerManager();
+        CustomerManager2 customerManager = new CustomerManager2();
         EmployeeManager employeeManager = new EmployeeManager();
     }
 }

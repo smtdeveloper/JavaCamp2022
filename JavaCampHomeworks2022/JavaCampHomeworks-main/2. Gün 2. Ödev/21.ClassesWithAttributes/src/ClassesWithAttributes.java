@@ -1,4 +1,4 @@
-public class Main {
+public class ClassesWithAttributes {
     public static void main(String[] args) {
         Product product1 = new Product(1, "Laptop", "Asus Laptop", 15000, 10, "Siyah");
 

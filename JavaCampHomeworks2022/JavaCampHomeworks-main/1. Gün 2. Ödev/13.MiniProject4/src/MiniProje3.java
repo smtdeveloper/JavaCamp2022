@@ -1,4 +1,4 @@
-public class Main {
+public class MiniProje3 {
 
     public static void main(String[] args) {
         // 6 --> 1,2,3

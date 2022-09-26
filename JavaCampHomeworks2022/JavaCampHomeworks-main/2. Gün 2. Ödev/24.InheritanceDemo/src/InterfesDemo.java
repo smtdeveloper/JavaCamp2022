@@ -1,4 +1,4 @@
-public class Main {
+public class InterfesDemo {
 
     public static void main(String[] args) {
         KrediUI krediUI = new KrediUI();

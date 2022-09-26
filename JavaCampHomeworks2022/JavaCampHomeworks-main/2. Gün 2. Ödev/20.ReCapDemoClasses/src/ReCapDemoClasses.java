@@ -1,4 +1,4 @@
-public class Main {
+public class ReCapDemoClasses {
 
     public static void main(String[] args) {
 	    DortIslem dortIslem = new DortIslem();

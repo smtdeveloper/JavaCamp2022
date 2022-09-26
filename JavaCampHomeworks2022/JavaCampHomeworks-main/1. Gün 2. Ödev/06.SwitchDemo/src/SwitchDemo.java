@@ -1,4 +1,4 @@
-public class Main {
+public class SwitchDemo {
 
     public static void main(String[] args) {
 	    char grade = 'A';

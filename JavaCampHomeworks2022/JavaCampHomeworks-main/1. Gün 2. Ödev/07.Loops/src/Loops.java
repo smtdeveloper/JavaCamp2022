@@ -1,4 +1,4 @@
-public class Main {
+public class Loops {
 
     public static void main(String[] args) {
         // For Döngüsü

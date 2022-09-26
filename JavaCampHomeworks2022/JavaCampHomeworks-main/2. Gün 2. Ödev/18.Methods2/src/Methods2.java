@@ -1,4 +1,4 @@
-public class Main {
+public class Methods2 {
 
     public static void main(String[] args) {
         String mesaj = "Bugün hava çok güzel.";
