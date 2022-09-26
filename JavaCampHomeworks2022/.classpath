@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/1. Gün 2. Ödev/01.HelloWorld/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/1. Gün 2. Ödev/02.Variables/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/1. Gün 2. Ödev/03.DataTypes/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/1. Gün 2. Ödev/04.Conditionals/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/1. Gün 2. Ödev/05.ReCapDemo1/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/1. Gün 2. Ödev/06.SwitchDemo/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/1. Gün 2. Ödev/07.Loops/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/1. Gün 2. Ödev/08.Arrays/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/1. Gün 2. Ödev/08.RecapDemo2/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/1. Gün 2. Ödev/09.MultiDimensionalArray/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/1. Gün 2. Ödev/10.Strings/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/1. Gün 2. Ödev/11.MiniProje1/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/1. Gün 2. Ödev/12.MiniProject2/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/1. Gün 2. Ödev/13.MiniProject4/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/1. Gün 2. Ödev/14.MiniProject4/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/1. Gün 2. Ödev/15.MiniProject5/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/2. Gün 2. Ödev/17.Methods/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/2. Gün 2. Ödev/18.Methods2/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/2. Gün 2. Ödev/19.Classes/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/2. Gün 2. Ödev/20.ReCapDemoClasses/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/2. Gün 2. Ödev/21.ClassesWithAttributes/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/2. Gün 2. Ödev/22.MethodOverloading/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/2. Gün 2. Ödev/23.Inheritance/src"/>
+	<classpathentry kind="src" path="JavaCampHomeworks-main/2. Gün 2. Ödev/24.InheritanceDemo/src"/>
+	<classpathentry kind="output" path="JavaCampHomeworks-main/1. Gün 2. Ödev/02.Variables/out/production/02.Variables"/>
+</classpath>
